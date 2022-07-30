@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooseSender", "GooseSender\GooseSender.csproj", "{3958C28E-0A6A-46A0-9D91-3C0B17248038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3958C28E-0A6A-46A0-9D91-3C0B17248038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3958C28E-0A6A-46A0-9D91-3C0B17248038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3958C28E-0A6A-46A0-9D91-3C0B17248038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3958C28E-0A6A-46A0-9D91-3C0B17248038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9386841E-FF54-4C5C-9B30-5DECAE16EB12}
+	EndGlobalSection
+EndGlobal
